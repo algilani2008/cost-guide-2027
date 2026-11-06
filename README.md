@@ -268,3 +268,9 @@ An end-to-end data project on Saudi Arabia's 25 October 2026 package: higher ele
 *Independent, educational analysis, not affiliated with any government body or company. Figures are model estimates, not official figures or forecasts.*
 
 > مشروع مستقل للأغراض التعليمية، غير تابع لأي جهة حكومية أو شركة. الأرقام تقديرات وليست أرقاماً رسمية.
+
+## الرخصة | License
+
+الكود برخصة [MIT](LICENSE). أما البيانات والمصادر الخارجية فتبقى على شروطها الأصلية.
+
+The code is under the [MIT License](LICENSE). Data and third-party sources keep their own terms.
