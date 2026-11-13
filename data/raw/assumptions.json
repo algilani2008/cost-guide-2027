@@ -340,7 +340,7 @@
     "value": 4.1,
     "low": 2.0,
     "high": 7.0,
-    "source": "Housing division inflation, Q1 2026 (SAMA)"
+    "source": "Housing price index change, Q1 2026 (SAMA)"
   },
   "indirect_energy_intensity": {
     "type": "assumption",
